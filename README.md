@@ -20,32 +20,37 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IAs Generativas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Video explicativo sobre IA generativas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT
+videozen.ai
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Roteiro feito pelo chat GPT e video criado apartir do videozen.ai
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
-### Exemplos e Insigths
+Projeto:
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+📒 Descrição
+Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
 
-## Links Interessantes
+🤖 Tecnologias Utilizadas
+IA Generativa ChatGPT para roteirização e revisão;
+IA Generativa videozen.ai para sintetização de voz e geração de video oriundo de texto;
+.
+🧐 Processo de Criação
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "videozen.ai" foi essencial para criar um video e voz sintetizada, trazendo uma dimensão futurística ao vídeo. 
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+🚀 Resultados
+O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+https://videozen.ai/preview?video_id=4b52b4083b494a9d9f50e154a3166bbe
+
+💭 Reflexão
+Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
